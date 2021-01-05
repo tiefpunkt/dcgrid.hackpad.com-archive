@@ -10,3 +10,8 @@ Original authors of the hackpad I could find were the following:
 * Anna Krotova
 * Eva Gladek
 * michaelkaisers@googlemail.com
+* Gerard Boor
+* Lucas Hergl Magalhaes
+* Emily HUANG
+* Cor-Jan Tolkamp
+* Emily Speyer
